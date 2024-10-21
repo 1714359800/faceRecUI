@@ -5,9 +5,9 @@
 ### 核心框架
 ![](https://github.com/1714359800/faceRecUI/blob/main/images/CoreUI.png)
 ### 人脸采集
-![DataRecordUI](.\images\DataRecordUI.png)
+![](https://github.com/1714359800/faceRecUI/blob/main/images/DataRecordUI.png)
 ### 数据管理
-![DataManageUI](.\images\DataManageUI.png)
+![](https://github.com/1714359800/faceRecUI/blob/main/images/DataManageUI.png)
 
 ## 如何运行？
 以下操作基于python3.6环境，并在Windows10 x64上测试。
