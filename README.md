@@ -3,7 +3,7 @@
 
 ## 系统预览
 ### 核心框架
-![CoreUI](.\images\CoreUI.png)
+![CoreUI]([images/CoreUI.png](https://github.com/1714359800/faceRecUI/blob/main/images/CoreUI.png))
 ### 人脸采集
 ![DataRecordUI](.\images\DataRecordUI.png)
 ### 数据管理
@@ -13,7 +13,7 @@
 以下操作基于python3.6环境，并在Windows10 x64上测试。
 ### 克隆代码
 ```
-$ git@github.com:1714359800/face_recognition.git
+$ git@github.com:1714359800/faceRecUI.git
 $ cd faceRecUI
 ```
 ### 创建Python虚拟环境
