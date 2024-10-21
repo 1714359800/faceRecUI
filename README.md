@@ -3,7 +3,7 @@
 
 ## 系统预览
 ### 核心框架
-![CoreUI]([images/CoreUI.png](https://github.com/1714359800/faceRecUI/blob/main/images/CoreUI.png))
+![](https://github.com/1714359800/faceRecUI/blob/main/images/CoreUI.png)
 ### 人脸采集
 ![DataRecordUI](.\images\DataRecordUI.png)
 ### 数据管理
